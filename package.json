@@ -1,5 +1,5 @@
 {
-  "name": "metro",
+  "name": "Hash & Slash",
   "version": "1.0.0",
   "description": "Metronome sync app",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Kiet Ho",
+  "author": "Madhav Krishan Goswami",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
