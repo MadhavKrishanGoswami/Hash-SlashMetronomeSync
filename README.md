@@ -24,3 +24,4 @@ For scaling the amount of users above 100, it would be best to have "rooms" or s
 [https://sync-metronome.herokuapp.com/](https://sync-metronome.herokuapp.com/ "https://sync-metronome.herokuapp.com/")
 ### License
 MIT
+# Hash-SlashMetronomeSync
