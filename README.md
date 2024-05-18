@@ -25,3 +25,4 @@ For scaling the amount of users above 100, it would be best to have "rooms" or s
 ### License
 MIT
 # Hash-SlashMetronomeSync
+# Hash-SlashMetronomeSync
